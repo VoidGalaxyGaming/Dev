@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/weapons/brownbess_body_amer"
+
+	//NOTE: USES BRIT STOCK NORMAL MAP!
+	"$bumpmap"	"models/weapons/brownbess_body_brit_normal"
+	"$detail" "detail\noise_detail_02" 
+	"$detailblendfactor" "1.8"
+	"$detailblendmode" "0"
+	"$detailscale" "12"
+
+}

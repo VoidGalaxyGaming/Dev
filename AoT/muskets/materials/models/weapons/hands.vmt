@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/hands"
+	"$bumpmap"	"models/weapons/hands_normal"
+	"$detail" "detail\noise_detail_02" 
+	"detailblendfactor" "0.8"
+	"$detailblendmode" "0"
+	"$detailscale" "18"
+}

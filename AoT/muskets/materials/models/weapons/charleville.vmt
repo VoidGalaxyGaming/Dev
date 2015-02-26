@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/charleville"
+	"$bumpmap" 	"models/weapons/charleville_normal"
+"$phong" "1"
+"$phongexponent" 30
+"$phongboost""9"
+"$phongfresnelranges""[0 0.5 1]"
+                "$halflambert"  1
+	"$detail" "detail\metal_detail_01" 
+	"$detailblendfactor" "1.8"
+	"$detailblendmode" "0"
+	"$detailscale" "12"
+}
+
+
+

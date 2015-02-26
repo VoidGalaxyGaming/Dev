@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "v_pistol_b/Tower-Pistol"
+	"$bumpmap" "v_pistol_b/Tower-Pistol_normal"
+"$phong" "1"
+"$phongexponent" 33
+"$phongboost""10"
+"$phongfresnelranges""[0 0.5 1]"
+                "$halflambert"  1
+}

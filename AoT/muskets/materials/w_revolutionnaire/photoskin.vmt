@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "w_revolutionnaire/photoskin"
+"$bumpmap"	"w_revolutionnaire/photoskin_normal"
+"$phong" "1"
+"$phongexponent" 20
+"$phongboost""20"
+"$phongfresnelranges""[0 0.5 1]"
+                "$halflambert"  1
+}

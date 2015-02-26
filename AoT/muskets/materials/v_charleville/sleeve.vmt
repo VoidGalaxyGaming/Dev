@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "v_charleville/sleeve"
+        "$bumpmap "v_charleville/sleeve_normal"  
+}

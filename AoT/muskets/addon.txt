@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Musket SWEPS"
+	"author_name" "Unknown"
+	"info" "[h1] Musket SWEPS Red/Blue [/h1] A Swep from a mod for HL2. Muskets as Sweps/ Weapons [b] What Do We Have? [/b]     [*] World Model     [*] Good Sounds     [*] Smoke After Shot     [*] NPC weapons [/list]    Goes great with [url=http://steamcommunity.com/sharedfiles/filedetails/?id=299813988] These Amazing Models From Professor Heavy[/url]  Credits - Complete code goes to [h1] Buzzofwar [/h1]             - Npc Weapons Code goes to [h1] roguex100 [/h1]             - Models and Textures goes to [h1] Battle Grounds Mod [/h1]  Do not copy any of the files included in this download and redistribute them in any way. Doing so would be violating [url=http://store.steampowered.com/subscriber_agreement//] Valves Terms and Conditions[/url]. Date of post - 6/25/2014  [h1][u] Please Report All Bugs [/u] [/h1]"
+}

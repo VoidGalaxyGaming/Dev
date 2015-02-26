@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "w_longpattern/photoskin"
+	"$bumpmap"	"w_longpattern/photoskin_normal"
+"$phong" "1"
+"$phongexponent" 15
+"$phongboost""30"
+"$phongfresnelranges""[0 0.5 1]"
+                "$halflambert"  1
+}
+

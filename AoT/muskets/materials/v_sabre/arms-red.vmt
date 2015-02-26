@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "common/sleeve/british_infantry_red"
+	"$bumpmap" "common/sleeve/british_infantry_normal"
+}

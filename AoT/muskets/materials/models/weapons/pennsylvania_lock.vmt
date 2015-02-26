@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/weapons/pennsylvania_lock"
+	$bumpmap "models/weapons/pennsylvania_lock_normal"
+	$model 1
+	"$detail" "detail\metal_detail_01" 
+	"$detailblendfactor" "0.6"
+	"$detailblendmode" "0"
+	"$detailscale" "12"
+}

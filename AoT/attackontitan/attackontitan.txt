@@ -1,0 +1,22 @@
+"attackontitan"
+{
+	"base"		"base"
+	"title"		"Attack on Titan"
+	"maps"		"^aot_"
+	"menusystem"	"1"
+	"workshopid"	"237201758"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"aot_maxfrags"
+			"text"		"Max Frags"
+			"help"		"The maxiumum number of frags before a map change"
+			"type"		"numeric"
+			"default"	"20"
+		}
+
+	}
+
+}

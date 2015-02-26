@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/weapons/revolutionnaire_body"
+	"$bumpmap" "models/weapons/revolutionnaire_body_normal"
+	"$detail" "detail\noise_detail_02" 
+	"$detailblendfactor" "1.8"
+	"$detailblendmode" "0"
+	"$detailscale" "12"
+}

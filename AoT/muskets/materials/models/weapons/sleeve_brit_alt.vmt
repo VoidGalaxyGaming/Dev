@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/british_infantry/altskin/sleeve_brit_reg"
+	"$bumpmap" "models/british_infantry/altskin/sleeve_brit_reg_normal"
+	"$model" 1
+	"$phong" "1"
+	"$phongexponent" 33
+	"$phongboost""10"
+	"$phongfresnelranges""[0 0.5 1]"
+    "$halflambert"  1
+}

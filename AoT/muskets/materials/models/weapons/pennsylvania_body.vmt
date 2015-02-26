@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "models/weapons/pennsylvania_body"
+	$bumpmap "models/weapons/pennsylvania_body_normal"
+	$model 1
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap" 
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1" 
+	"$envmaptint" "[ 0.32 0.32 0.32 ]"
+"$phong" "1"
+"$phongexponent" 33
+"$phongboost""9"
+"$phongfresnelranges""[0 0.5 1]"
+                "$halflambert"  1
+	"$detail" "detail\noise_detail_02" 
+	"$detailblendfactor" "1.8"
+	"$detailblendmode" "0"
+	"$detailscale" "12"
+}
+
+
+	
+
+

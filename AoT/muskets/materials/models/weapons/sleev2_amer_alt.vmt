@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/continental_soldier/altskin2/sleeve_amer_reg"
+	"$bumpmap" "models/weapons/sleeve_amer_reg_normal"
+	"$phong" "1"
+	"$phongexponent" 33
+	"$phongboost""10"
+	"$phongfresnelranges""[0 0.5 1]"
+	"$halflambert"  1
+}

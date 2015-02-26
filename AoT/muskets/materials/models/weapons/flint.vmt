@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/flint"
+	"$bumpmap" "models/weapons/flint_normal"
+	"$detail" "detail\noise_detail_02" 
+	"$detailblendfactor" "1.8"
+	"$detailblendmode" "0"
+	"$detailscale" "12"
+}

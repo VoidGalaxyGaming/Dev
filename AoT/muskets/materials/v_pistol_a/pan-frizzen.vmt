@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "v_pistol_a/Pan-Frizzen"
+	"$bumpmap" "v_pistol_a/Pan-Frizzen_normal"
+}

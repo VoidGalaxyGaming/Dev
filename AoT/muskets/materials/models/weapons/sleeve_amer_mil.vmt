@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/sleeve_amer_mil"
+	"$bumpmap" "models/weapons/sleeve_amer_mil_normal"
+}

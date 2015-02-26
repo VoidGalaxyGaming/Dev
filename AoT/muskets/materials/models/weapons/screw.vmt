@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/weapons/screw"
+	$translucent 1
+	$alphatest 1
+}
